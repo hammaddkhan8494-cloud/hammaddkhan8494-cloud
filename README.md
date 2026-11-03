@@ -1,155 +1,115 @@
-# 👋 Hi, I'm Hammad Khan
+<!-- PROFILE HEADER -->
 
-### Full-Stack Developer | React & Next.js Developer | AI Enthusiast
+<div align="center">
 
-I’m a Computer Science student passionate about building modern web applications, full-stack platforms, and practical software solutions that solve real-world problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Hammad%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js&descAlignY=55&descSize=16" width="100%" />
 
-I enjoy working across the development lifecycle — from designing responsive interfaces and building application logic to developing APIs, integrating databases, and exploring AI-powered solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Computer+Science+Student;Building+Modern+Digital+Products" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Building full-stack web applications
-- ⚛️ Developing modern interfaces using React and Next.js
-- ⚙️ Working with backend technologies and APIs
-- 🤖 Exploring Artificial Intelligence and AI-powered applications
-- 🎓 Computer Science Student at Iqra University
+Hi! I'm **Hammad Khan**, a Computer Science student and aspiring Full Stack Developer from Karachi, Pakistan.
+
+- 🚀 Interested in building modern web applications
+- ⚛️ Working with React.js and Next.js
+- 🟢 Exploring backend development with Node.js
 - 💼 IT Support at Ideas Private Limited
-- 🌐 Interested in solving real-world problems through technology
-- 📚 Continuously learning modern software development practices
+- 🎓 Computer Science Student at Iqra University
+- 🤖 Interested in AI-powered applications
+- 🌱 Always learning and improving my development skills
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧰 Languages & Technologies
 
-### 💻 Languages
+<div align="center">
 
-- Java
-- JavaScript
-- Python
-- C
-- C++
-- SQL
-- HTML
-- CSS
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,java,git,github,vscode,vercel" />
 
-### ⚛️ Frontend
-
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-
-### ⚙️ Backend & APIs
-
-- Node.js
-- REST APIs
-- Full-Stack Development
-- Database Integration
-
-### 🤖 AI & Machine Learning
-
-- Artificial Intelligence
-- ChatGPT / OpenAI Integration
-- Google Gemini Integration
-- AI-Assisted Workflows
-
-### 🔧 Tools & Deployment
-
-- Git & GitHub
-- VS Code
-- JavaFX
-- SQLite
-- Vercel
+</div>
 
 ---
 
-# 🌟 Featured Projects
+## 🚀 Featured Project
 
-## 🤖 HM Tech AI
+<div align="center">
 
-A Human + AI business and project management platform designed to bring human teams and artificial intelligence together in one workspace.
+### 🤖 HM Tech AI
 
-The platform focuses on simplifying business operations through employee management, task workflows, role-based access, financial tracking, and AI-powered assistance.
+**Human + AI Powered Management Platform**
 
-**Key Features:**
+A project focused on combining business management workflows with AI-powered assistance.
 
-- 👨‍💼 Admin, Manager & Employee Roles
-- 👥 Employee Management
-- 🔐 Role-Based Permissions
-- ✅ Task Creation and Assignment
-- 🤖 AI-Assisted Task Assignment
-- 💰 Petty Cash Management
-- 📊 Management Reports
-- ☁️ ChatGPT & Gemini AI Integration
-- 💾 SQLite Database
-- 🎨 JavaFX User Interface
+**Project highlights**
+- Employee and task management
+- Role-based access
+- AI integration concept
+- Business workflow management
 
-🔗 **Repository:** [HM Tech AI](https://github.com/hammaddkhan8494-cloud/hm-tech-ai)
+<a href="https://github.com/hammaddkhan8494-cloud/hm-tech-ai">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
-
-* * *
-
-# 🎯 What I Like Building
-
-```text
-       💡 Ideas
-          │
-          ▼
-   🎨 User Interfaces
-          │
-          ▼
-   ⚙️ Application Logic
-          │
-          ▼
-      🔌 APIs
-          │
-          ▼
-   🤖 AI Integration
-          │
-          ▼
-    ☁️ Deployment
-          │
-          ▼
-   🚀 Working Products
-```
-
-I’m especially interested in building applications that combine modern web technologies, software engineering, and artificial intelligence to create useful digital products.
+</div>
 
 ---
 
-# 📚 Currently Learning
+## 📊 GitHub Statistics
 
-- Advanced Full-Stack Development
-- React.js & Next.js
-- Node.js & Backend Development
-- Artificial Intelligence Integration
-- REST API Development
-- Database Design
-- Cloud Deployment
-- Software Engineering Best Practices
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hammaddkhan8494-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-# 📈 GitHub Activity
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammaddkhan8494-cloud&layout=compact&theme=tokyonight&hide_border=true" />
 
----
+</div>
 
-# 🤝 Let's Connect
+<div align="center">
 
-I’m always interested in connecting with developers, engineers, recruiters, and people working on interesting technology projects.
+<img src="https://streak-stats.demolab.com?user=hammaddkhan8494-cloud&theme=tokyonight&hide_border=true" />
 
-- 💻 **GitHub:** [@hammaddkhan8494-cloud](https://github.com/hammaddkhan8494-cloud)
-- 💼 **LinkedIn:** [Hammad Khan](https://www.linkedin.com/in/hammad-khan-358692399/)
-- 🏢 **Organization:** Ideas Private Limited
-- 🎓 **University:** Iqra University
+</div>
 
 ---
 
-### 💻 Build. Learn. Deploy. Repeat. 🚀
+## 🎯 My Goals
 
-⭐ Thanks for visiting my profile!
+- Build impactful full-stack applications
+- Improve my backend development skills
+- Explore AI and modern technologies
+- Contribute to open-source projects
+- Grow as a professional software developer
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/hammaddkhan8494-cloud">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/hammad-khan-358692399/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hammaddkhan8494-cloud&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
+
+### 💻 Code. Create. Innovate. Repeat. 🚀
+
+**Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer" width="100%" />
+
+</div>
