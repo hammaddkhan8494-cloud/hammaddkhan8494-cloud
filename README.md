@@ -1,97 +1,70 @@
-# 👋 Hi, I'm Hammad Khan
+<div align="center">
 
-### 💻 Computer Science Student | Java Developer | Full-Stack & AI Enthusiast
+# 👋 Hey, I'm Hammad Khan
 
-I am a Computer Science student passionate about building practical software solutions that combine **human intelligence with artificial intelligence**.
+### 💻 Computer Science Student | Software Developer | Java & Full-Stack Enthusiast
 
-I enjoy working on desktop applications, backend systems, databases, AI integrations, and modern software projects.
+I enjoy building practical software, exploring AI-powered tools, and turning ideas into useful digital products.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-hammaddkhan8494--cloud-181717?style=for-the-badge&logo=github)](https://github.com/hammaddkhan8494-cloud)
 
-## 🚀 Featured Project
-
-### 🤖 HM Tech AI — Human + AI Business & Project Studio
-
-A professional **Human + AI management platform** designed to bring human teams and artificial intelligence together in one workspace.
-
-**Main Features:**
-- 👨‍💼 Admin, Manager & Employee roles
-- 👥 User and employee management
-- 🔐 Role-based permissions
-- ✅ Task creation and assignment
-- 🤖 AI-assisted task assignment
-- 💰 Petty Cash Management
-- 📊 Management Reports
-- ☁️ ChatGPT & Gemini AI integration
-- 💾 Persistent SQLite database
-- 🎨 Modern JavaFX interface
-
-👉 Check the project here:  
-[HM Tech AI Repository](https://github.com/hammaddkhan8494-cloud/hm-tech-ai)
+</div>
 
 ---
 
-## 🛠️ Technologies & Skills
+## 🚀 About Me
 
-**Languages**
-- Java
-- C
-- C++
-- Python
-- SQL
-- HTML
-- CSS
-- JavaScript
+- 🎓 Computer Science student interested in software engineering and application development.
+- 💻 Exploring Java, full-stack development, and modern software tools.
+- 🤖 Interested in practical applications of AI and human–AI collaboration.
+- 🧩 I enjoy learning by building projects and improving them step by step.
+- 🌱 Currently growing my skills in software development, APIs, databases, and AI-assisted applications.
 
-**Development**
-- JavaFX
-- Object-Oriented Programming (OOP)
-- Database Integration
-- Full-Stack Development
-- REST APIs
-- Git & GitHub
+## 🛠️ Technologies & Interests
 
-**AI & Cloud**
-- ChatGPT / OpenAI Integration
-- Google Gemini Integration
-- AI-assisted workflows
-- Human + AI collaboration systems
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software%20Development-2563EB?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full--Stack%20Development-0F766E?style=flat-square)
+![AI](https://img.shields.io/badge/AI%20Enthusiast-7C3AED?style=flat-square)
 
-**Databases**
-- SQLite
-- SQL
+## 🌟 Featured Project
 
----
+### 🤝 HM Tech AI
 
-## 🎯 Currently Working On
+A Human + AI management platform focused on role-based administration, smart task workflows, employee management, petty cash tracking, and cloud AI integration.
 
-🚀 Building **HM Tech AI** into a complete Human + AI business management platform.
+- **Focus:** Human–AI workflows, management tools, and practical software solutions.
+- **Repository:** [Explore HM Tech AI](https://github.com/hammaddkhan8494-cloud/hm-tech-ai)
 
-I am currently exploring:
+## 📈 GitHub Statistics
 
-- Advanced Java development
-- Full-stack application development
-- Artificial Intelligence integration
-- Cloud-based applications
-- Modern UI/UX
-- Software architecture
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammaddkhan8494-cloud&show_icons=true&hide_border=true&rank_icon=github)
 
-## 📌 My Goal
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammaddkhan8494-cloud&layout=compact&hide_border=true)
 
-My goal is to become a professional **Software & AI Developer** and build intelligent applications that solve real-world problems.
+![GitHub Streak](https://streak-stats.demolab.com?user=hammaddkhan8494-cloud&hide_border=true)
 
-I believe AI works best when it **empowers people rather than replaces them.**
+</div>
+
+## 🎯 Current Goals
+
+- Strengthen my software engineering fundamentals.
+- Build useful projects and document them clearly.
+- Improve my Java and full-stack development skills.
+- Explore ways to integrate AI into practical applications.
+
+## 🤝 Let's Connect
+
+- GitHub: [@hammaddkhan8494-cloud](https://github.com/hammaddkhan8494-cloud)
 
 ---
 
-## 🤝 Connect With Me
+<div align="center">
 
-💼 GitHub: **@hammaddkhan8494-cloud**
+### ✨ Learn • Build • Improve • Repeat
 
-🚀 Featured Project: **HM Tech AI**
+Thanks for visiting my profile! ⭐
 
----
-
-### ⚡ Build • Learn • Innovate • Improve
+</div>
