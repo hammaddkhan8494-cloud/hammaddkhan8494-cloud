@@ -1,91 +1,155 @@
- <div align="center">
-
 # 👋 Hi, I'm Hammad Khan
 
-### 💻 Full Stack Developer | React | Next.js | Node.js
+### Full-Stack Developer | React & Next.js Developer | AI Enthusiast
 
-**CS Student @ Iqra University | IT Support @ Ideas Private Limited**
+I’m a Computer Science student passionate about building modern web applications, full-stack platforms, and practical software solutions that solve real-world problems.
 
-📍 Karachi, Sindh, Pakistan
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hammaddkhan8494-cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-khan-358692399/)
-
-</div>
+I enjoy working across the development lifecycle — from designing responsive interfaces and building application logic to developing APIs, integrating databases, and exploring AI-powered solutions.
 
 ---
 
 ## 🚀 About Me
 
-I'm Hammad Khan, a Full Stack Developer and Computer Science student at Iqra University.
-
-I enjoy developing modern, responsive, and user-friendly web applications. I have an interest in software engineering, IT support, and exploring emerging technologies.
-
-- 💻 Full Stack Developer
-- ⚛️ Working with React.js and Next.js
-- 🟢 Exploring Node.js and backend development
-- 🏢 IT Support at Ideas Private Limited
+- 💻 Building full-stack web applications
+- ⚛️ Developing modern interfaces using React and Next.js
+- ⚙️ Working with backend technologies and APIs
+- 🤖 Exploring Artificial Intelligence and AI-powered applications
 - 🎓 Computer Science Student at Iqra University
-- 📍 Based in Karachi, Pakistan
-- 🌱 Always learning and improving my development skills
-
-## 🛠️ Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-### Other Interests
-![IT Support](https://img.shields.io/badge/IT%20Support-2563EB?style=flat-square)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-7C3AED?style=flat-square)
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/hammaddkhan8494-cloud)
-
-[![Repositories](https://img.shields.io/badge/Explore-My%20Projects-blue?style=for-the-badge&logo=github)](https://github.com/hammaddkhan8494-cloud?tab=repositories)
-
-[![Followers](https://img.shields.io/github/followers/hammaddkhan8494-cloud?style=for-the-badge&logo=github)](https://github.com/hammaddkhan8494-cloud?tab=followers)
-
-</div>
-
-
-## 🎯 My Goals
-
-- Build professional full-stack web applications.
-- Improve my React and Next.js development skills.
-- Master backend development with Node.js.
-- Learn new technologies and software engineering practices.
-- Create impactful projects and grow as a developer.
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/hammaddkhan8494-cloud)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hammad-khan-358692399/)
-
-</div>
+- 💼 IT Support at Ideas Private Limited
+- 🌐 Interested in solving real-world problems through technology
+- 📚 Continuously learning modern software development practices
 
 ---
 
-<div align="center">
+## 🛠️ Technologies & Tools
 
-### 💡 Code. Create. Innovate. Repeat.
+### 💻 Languages
 
-⭐ Thanks for visiting my GitHub profile!
+- Java
+- JavaScript
+- Python
+- C
+- C++
+- SQL
+- HTML
+- CSS
 
-</div>
+### ⚛️ Frontend
+
+- React.js
+- Next.js
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+
+### ⚙️ Backend & APIs
+
+- Node.js
+- REST APIs
+- Full-Stack Development
+- Database Integration
+
+### 🤖 AI & Machine Learning
+
+- Artificial Intelligence
+- ChatGPT / OpenAI Integration
+- Google Gemini Integration
+- AI-Assisted Workflows
+
+### 🔧 Tools & Deployment
+
+- Git & GitHub
+- VS Code
+- JavaFX
+- SQLite
+- Vercel
+
+---
+
+# 🌟 Featured Projects
+
+## 🤖 HM Tech AI
+
+A Human + AI business and project management platform designed to bring human teams and artificial intelligence together in one workspace.
+
+The platform focuses on simplifying business operations through employee management, task workflows, role-based access, financial tracking, and AI-powered assistance.
+
+**Key Features:**
+
+- 👨‍💼 Admin, Manager & Employee Roles
+- 👥 Employee Management
+- 🔐 Role-Based Permissions
+- ✅ Task Creation and Assignment
+- 🤖 AI-Assisted Task Assignment
+- 💰 Petty Cash Management
+- 📊 Management Reports
+- ☁️ ChatGPT & Gemini AI Integration
+- 💾 SQLite Database
+- 🎨 JavaFX User Interface
+
+🔗 **Repository:** [HM Tech AI](https://github.com/hammaddkhan8494-cloud/hm-tech-ai)
+
+---
+
+* * *
+
+# 🎯 What I Like Building
+
+```text
+       💡 Ideas
+          │
+          ▼
+   🎨 User Interfaces
+          │
+          ▼
+   ⚙️ Application Logic
+          │
+          ▼
+      🔌 APIs
+          │
+          ▼
+   🤖 AI Integration
+          │
+          ▼
+    ☁️ Deployment
+          │
+          ▼
+   🚀 Working Products
+```
+
+I’m especially interested in building applications that combine modern web technologies, software engineering, and artificial intelligence to create useful digital products.
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Full-Stack Development
+- React.js & Next.js
+- Node.js & Backend Development
+- Artificial Intelligence Integration
+- REST API Development
+- Database Design
+- Cloud Deployment
+- Software Engineering Best Practices
+
+---
+
+# 📈 GitHub Activity
+
+---
+
+# 🤝 Let's Connect
+
+I’m always interested in connecting with developers, engineers, recruiters, and people working on interesting technology projects.
+
+- 💻 **GitHub:** [@hammaddkhan8494-cloud](https://github.com/hammaddkhan8494-cloud)
+- 💼 **LinkedIn:** [Hammad Khan](https://www.linkedin.com/in/hammad-khan-358692399/)
+- 🏢 **Organization:** Ideas Private Limited
+- 🎓 **University:** Iqra University
+
+---
+
+### 💻 Build. Learn. Deploy. Repeat. 🚀
+
+⭐ Thanks for visiting my profile!
