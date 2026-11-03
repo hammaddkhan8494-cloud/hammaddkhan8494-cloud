@@ -49,13 +49,18 @@ I enjoy developing modern, responsive, and user-friendly web applications. I hav
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammaddkhan8494-cloud&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Overview
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammaddkhan8494-cloud&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hammaddkhan8494-cloud&theme=tokyonight&hide_border=true)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/hammaddkhan8494-cloud)
+
+[![Repositories](https://img.shields.io/badge/Explore-My%20Projects-blue?style=for-the-badge&logo=github)](https://github.com/hammaddkhan8494-cloud?tab=repositories)
+
+[![Followers](https://img.shields.io/github/followers/hammaddkhan8494-cloud?style=for-the-badge&logo=github)](https://github.com/hammaddkhan8494-cloud?tab=followers)
 
 </div>
+
 
 ## 🎯 My Goals
 
